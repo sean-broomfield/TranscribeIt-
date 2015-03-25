@@ -1,0 +1,88 @@
+spritesheet1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a-amanitin
+  rotate: true
+  xy: 306, 454
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+adenine
+  rotate: false
+  xy: 2, 160
+  size: 90, 215
+  orig: 90, 215
+  offset: 0, 0
+  index: -1
+cytosine
+  rotate: true
+  xy: 154, 2
+  size: 90, 215
+  orig: 90, 215
+  offset: 0, 0
+  index: -1
+guanine
+  rotate: true
+  xy: 154, 94
+  size: 90, 215
+  orig: 90, 215
+  offset: 0, 0
+  index: -1
+poly2
+  rotate: true
+  xy: 311, 186
+  size: 157, 118
+  orig: 157, 118
+  offset: 0, 0
+  index: -1
+thymine
+  rotate: true
+  xy: 94, 186
+  size: 90, 215
+  orig: 90, 215
+  offset: 0, 0
+  index: -1
+transcription_factor
+  rotate: false
+  xy: 2, 2
+  size: 150, 156
+  orig: 150, 156
+  offset: 0, 0
+  index: -1
+transcription_factor2
+  rotate: true
+  xy: 371, 2
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+transcription_factor3
+  rotate: false
+  xy: 154, 370
+  size: 150, 137
+  orig: 150, 137
+  offset: 0, 0
+  index: -1
+transcription_factor4
+  rotate: false
+  xy: 2, 377
+  size: 150, 116
+  orig: 150, 116
+  offset: 0, 0
+  index: -1
+transcription_factor5
+  rotate: false
+  xy: 311, 345
+  size: 150, 107
+  orig: 150, 107
+  offset: 0, 0
+  index: -1
+uracil
+  rotate: true
+  xy: 94, 278
+  size: 90, 215
+  orig: 90, 215
+  offset: 0, 0
+  index: -1

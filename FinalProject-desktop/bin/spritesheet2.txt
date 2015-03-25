@@ -1,0 +1,53 @@
+spritesheet2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a-amanitin
+  rotate: false
+  xy: 204, 2
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+adenine
+  rotate: false
+  xy: 131, 2
+  size: 71, 167
+  orig: 71, 167
+  offset: 0, 0
+  index: -1
+cytosine
+  rotate: false
+  xy: 2, 89
+  size: 71, 167
+  orig: 71, 167
+  offset: 0, 0
+  index: -1
+guanine
+  rotate: false
+  xy: 2, 258
+  size: 71, 167
+  orig: 71, 167
+  offset: 0, 0
+  index: -1
+polyii
+  rotate: false
+  xy: 2, 2
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+thymine
+  rotate: false
+  xy: 75, 171
+  size: 71, 167
+  orig: 71, 167
+  offset: 0, 0
+  index: -1
+uracil
+  rotate: false
+  xy: 75, 340
+  size: 71, 167
+  orig: 71, 167
+  offset: 0, 0
+  index: -1
